@@ -19,6 +19,9 @@ Para fazer contas com double precisa ao menos um dos numeros como double ou nume
 
 * Para converter um double em int somente dessa forma:
 
-  double salario = 1250.00;
-  int valor = (int) salario;
-  uma String é declarada com aspas duplas " e pode ter zero ou mais caracteres. Um char é declarado com aspas simples ' e pode usar apenas um caractere!
+main + ctrl + espaço
+para gerar o método main
+ctrl + shift + f
+para formatar o código fonte
+sysout + ctrl + espaço
+para gerar a instrução System.out.println()
