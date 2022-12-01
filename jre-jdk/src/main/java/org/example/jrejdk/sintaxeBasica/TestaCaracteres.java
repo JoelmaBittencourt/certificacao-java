@@ -1,7 +1,9 @@
 package org.example.jrejdk.sintaxeBasica;
 
 public class TestaCaracteres {
-
+/*
+tabela ascii cada letra corresponde a um numero
+ */
     public static void main(String[] args){
         char letra = 'a'; //so da pra trabalhar com uma unica letra
         System.out.println(letra);

@@ -1,3 +1,6 @@
 rootProject.name = 'cetificacao-java'
 include 'jre-jdk'
+include 'Orientaca0-a-objetos'
+include 'heranca-e-interfaces'
+include 'java-excecoes'
 

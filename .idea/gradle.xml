@@ -9,6 +9,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Orientaca0-a-objetos" />
+            <option value="$PROJECT_DIR$/heranca-e-interfaces" />
+            <option value="$PROJECT_DIR$/java-excecoes" />
             <option value="$PROJECT_DIR$/jre-jdk" />
           </set>
         </option>
